@@ -1,0 +1,9 @@
+# requirements.txt
+
+streamlit
+pdfplumber
+python-docx
+spacy
+scikit-learn
+plotly
+pandas
